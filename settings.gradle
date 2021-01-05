@@ -1,0 +1,3 @@
+include ':AmaralLibrary'
+include ':app'
+rootProject.name = "Amaral Library"
